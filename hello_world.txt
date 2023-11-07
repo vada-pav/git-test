@@ -1,0 +1,2 @@
+Hello world!
+This is the git basics course on the Odin Project website.
